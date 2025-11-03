@@ -1,9 +1,9 @@
-booktoki468.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
-booktoki468.com###hd_pop
-booktoki468.com##img[src^="/tokinbtoki/"]
-booktoki468.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
-
 booktoki469.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
 booktoki469.com###hd_pop
 booktoki469.com##img[src^="/tokinbtoki/"]
 booktoki469.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
+
+booktoki470.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+booktoki470.com###hd_pop
+booktoki470.com##img[src^="/tokinbtoki/"]
+booktoki470.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
