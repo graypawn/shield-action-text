@@ -43,7 +43,7 @@ def main():
         url_plus1 = increment_number_in_url(url)
 
         # 두 URL에 대한 라인 생성
-        lines = build_filter_lines(url) + [""] + build_filter_lines(url_plus1)  # 중간에 빈 줄 추가
+        lines = build_filter_lines(url) + build_filter_lines(url_plus1)  # 중간에 빈 줄 추가
 
         with open('toki_filter.txt', 'w', encoding='utf-8') as f:
             for line in lines:
