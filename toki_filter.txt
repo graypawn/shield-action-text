@@ -1,8 +1,8 @@
-booktoki469.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
-booktoki469.com###hd_pop
-booktoki469.com##img[src^="/tokinbtoki/"]
-booktoki469.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
-booktoki470.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
-booktoki470.com###hd_pop
-booktoki470.com##img[src^="/tokinbtoki/"]
-booktoki470.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=10)##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=10)###hd_pop
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=10)##img[src^="/tokinbtoki/"]
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=10)#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=11)##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=11)###hd_pop
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=11)##img[src^="/tokinbtoki/"]
+ HTTPSConnectionPool(host='jusocon.com', port=443): Read timed out. (read timeout=11)#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
