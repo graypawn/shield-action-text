@@ -1,8 +1,8 @@
- HTTPSConnectionPool(host='jusocon.com', port=443): Max retries exceeded with url: /bbs/link.php##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
- HTTPSConnectionPool(host='jusocon.com', port=443): Max retries exceeded with url: /bbs/link.php###hd_pop
- HTTPSConnectionPool(host='jusocon.com', port=443): Max retries exceeded with url: /bbs/link.php##img[src^="/tokinbtoki/"]
- HTTPSConnectionPool(host='jusocon.com', port=443): Max retries exceeded with url: /bbs/link.php#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
- HTTPSConnectionPool(host='jusocon.com', port=444): Max retries exceeded with url: /bbs/link.php##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
- HTTPSConnectionPool(host='jusocon.com', port=444): Max retries exceeded with url: /bbs/link.php###hd_pop
- HTTPSConnectionPool(host='jusocon.com', port=444): Max retries exceeded with url: /bbs/link.php##img[src^="/tokinbtoki/"]
- HTTPSConnectionPool(host='jusocon.com', port=444): Max retries exceeded with url: /bbs/link.php#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
+jusocon.com/bbs/link.php##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+jusocon.com/bbs/link.php###hd_pop
+jusocon.com/bbs/link.php##img[src^="/tokinbtoki/"]
+jusocon.com/bbs/link.php#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
+jusocon.com/bbs/link.php##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+jusocon.com/bbs/link.php###hd_pop
+jusocon.com/bbs/link.php##img[src^="/tokinbtoki/"]
+jusocon.com/bbs/link.php#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
